@@ -4,6 +4,8 @@
 
 [![Kx](https://github.com/ikx7a/ShikimoriixBot/blob/main/Assets/Shikimori.png)](https://github.com/ikx7a/ShikimoriixBot)
 
+<a href="https://t.me/ShikimoriixBot?startgroup=start"><b> `Add Group Help to the group` </b></a>
+
 </div>
 
 **What is Shikimori for?**
@@ -37,6 +39,8 @@ There is a captcha check to prevent the entry of VoIP users who automatically sp
 
 **Start protecting your group now!**
 > Getting started protecting and managing your group better with Shikimori Bot is very simple: [click here](https://t.me/ShikimoriixBot?startgroup=start) to **add the bot** to the group, then set it as **administrator** and send the command **/settings** to manage the bot at 360° in all its functions and automations.
+
+[![Shikimori](https://github.com/ikx7a/ShikimoriixBot/blob/main/Assets/Shikimori_1.jpg)](https://github.com/ikx7a/ShikimoriixBot)
 
 **Shikimori Commands**
 
@@ -107,30 +111,38 @@ There is a captcha check to prevent the entry of VoIP users who automatically sp
 
 </details>
 <details> 
-<summary><b> Shikimori Configuration Tutorial </summary>
+<summary><b> Shikimori Configuration Tutorial </b></summary>
 
-- The first thing to do is to add **Shikimori to your group!**
-- Now for let me work correctly, you need to make me Admin of your Group!
+1. The first thing to do is to add **Shikimori to your group!**
+2. Now for let me work correctly, you need to make me Admin of your Group!
 
 **To do that, follow this easy steps:**
--▫️ Go to your group
--▫️ Press the Group's name
--▫️ Press Modify
--▫️ Press on Administrator
--▫️ Press Add Administrator
--▫️ Press the Magnifying Glass
--▫️ Search @ShikimoriixBot
--▫️ Confirm
+- Go to your group
+- Press the Group's name
+- Press Modify
+- Press on Administrator
+- Press Add Administrator
+- Press the Magnifying Glass
+- Search `@ShikimoriixBot`
+- Confirm
 
-<summary><b> Example Video </summary>
+3. Now the Bot is ready to use!
+> Using the `/settings` command you have at your disposal a series of things that can be modified how you prefer, as required for your group.
 
-<div align="center">
+4. To conclude, I explain you how to use the Bot's basic commands, for the basilar management of the group's users.
 
-[<img src="https://github.com/ikx7a/ShikimoriixBot/blob/main/Assets/Shikimori.gif" width="200" height="auto">](https://github.com/ikx7a/ShikimoriixBot)
+- `/ban` expels a user from the group without giving him the possibility to rejoin with the group's link
+- `/mute` allows a user to read, but not to write messages in the group
+- `/kick` expels a user of the group but with the possibility to rejoin with the group's link
+- `/unban` used on a banned user, gives him the possibility to rejoin with the group's link
+- `/info` shows all the infos of the choosed user
+- `/staff` shows the complete list of the Group's staff
 
+5. In conclusion I would point out the command `/reload` that will update the group's Admin list.
 
+> ***For example** if you add or remove an Admin, remember to use this command or the bot will not notice this change.*
 
-
+Thank for following the tutorial and have fun using the Bot!
 
 
 
