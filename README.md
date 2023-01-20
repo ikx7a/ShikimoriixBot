@@ -4,9 +4,13 @@
 
 [![Kx](https://github.com/ikx7a/ShikimoriixBot/blob/main/Assets/Shikimori.png)](https://github.com/ikx7a/ShikimoriixBot)
 
-<a href="https://t.me/ShikimoriixBot?startgroup=start"><b> `Add Group Help to the group` </b></a>
+<a href="https://telegram.me/ShikimoriixBot?startgroup=start"><b> `Add Group Help to the group` </b></a>
 
 </div>
+
+- **Name** : Shikimori \\\ Kχ™
+- **Bot ID** : 5933167192
+- **Username** : [@ShikimoriixBot](https://telegram.me/ShikimoriixBot?start=start)
 
 <details> 
 <summary><b> Shikimori Configuration Tutorial </b></summary>
