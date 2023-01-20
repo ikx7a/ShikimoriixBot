@@ -1,4 +1,4 @@
-<div align="center"> 
+Y<div align="center"> 
 
 ────「 **[Shikimori Micchon](https://github.com/ikx7a/Shikimori-San)** 」────
 
@@ -79,7 +79,7 @@ There is a captcha check to prevent the entry of VoIP users who automatically sp
 
 - ◽️ `/me` sends in private chat a message with his own infos, group infos, warns received, rules of the group, banned words list...
 
-- 🕵🏻 /send permits to send a post using [HTML]() in the group, through the Bot
+- 🕵🏻 /send permits to send a post using [HTML](https://github.com/ikx7a/ShikimoriixBot/tree/main/HTML) in the group, through the Bot
   > ➡️ *Example*: /send Hello World!
 
 - 👮🏻  `/intervention` lets you request the intervention of a member of Official Bot Support, who will join the group as soon as possible
