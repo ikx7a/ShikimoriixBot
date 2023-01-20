@@ -1,6 +1,6 @@
 <div align="center"> 
 
- **[Shikimori Micchon](https://github.com/ikx7a/Shikimori-San)**
+────「 **[Shikimori Micchon](https://github.com/ikx7a/Shikimori-San)** 」────
 
 [![Kx](https://github.com/ikx7a/ShikimoriixBot/blob/main/Assets/Shikimori.png)](https://github.com/ikx7a/ShikimoriixBot)
 
