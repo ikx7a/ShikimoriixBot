@@ -11,23 +11,23 @@
 </div>
 
 **What is Shikimori for?**
- Have you ever received Telegram in your group **spam, adder, flood,** people who send **porno,** NSFW, swearing, links, ecc.?
+> Have you ever received Telegram in your group **spam, adder, flood,** people who send **porno,** NSFW, swearing, links, ecc.?
 **Shikimori** is the **automatic moderator** that manages your Telegram group and punishes malicious users automatically for you.
 
-**How does Group Help work?**
- Just add Group Help Bot to your group as an administrator and configure it with the command /settings. It will be ready to protect the your group from spam, flood and attacks.
+**How does Shikimori work?**
+> Just add Shikimori Bot to your group as an administrator and configure it with the command /settings. It will be ready to protect the your group from spam, flood and attacks.
 You can set banned words so that the **ban or mute** of a user in the group when sent.
 There is an anti-porn filter to be enabled to automatically delete and punish those who send content pornographic in your group.
 You can adjust all kinds of punishments including message deletion, user ban, user mute etc.
 There is a captcha check to prevent the entry of VoIP users who automatically spam your group.
 
-**Main Group Help functions**
+**Main Shikimori functions**
 
  - **PROTECTION**
    - **Captcha** - Ask users who join the group to resolve a captcha, to filter out unwanted automatic logins.
    - **Anti-spam** - Automatically delete spam messages sent to the group and punish the sender.
    - **Anti-flood** - Block those who send a lot of messages in too little time trying to damage the group.
-   - **Anti-porn** - Group Help can detect and punish anyone who submits NSFW material in your group.
+   - **Anti-porn** - Shikimori can detect and punish anyone who submits NSFW material in your group.
    - **Banned words** - Create a list of words to ban: anyone who uses them will be punished.
    - **Night mode** - Nobody will be able to send media and links (or no messages) at night and your group will be even safer.
 
@@ -39,6 +39,8 @@ There is a captcha check to prevent the entry of VoIP users who automatically sp
   - **Channel subscription obligation** - Only allow users who are subscribed to your Telegram channel to write (or stay) in the group.
   - **Log Channel** - Everything that happens in your group will be recorded on a private channel, so you can be consulted whenever you want and forever.
 
+**Start protecting your group now!**
+> Getting started protecting and managing your group better with Shikimori Bot is very simple: [click here](https://t.me/ShikimoriixBot?startgroup=start) to **add the bot** to the group, then set it as **administrator** and send the command **/settings** to manage the bot at 360° in all its functions and automations.
 
 
 
