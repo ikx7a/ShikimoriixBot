@@ -2,11 +2,7 @@
 
  **[Shikimori Micchon](https://github.com/ikx7a/Shikimori-San)**
 
-
-
-
-
-[![Kx]()](https://github.com/ikx7a/ShikimoriixBot)
+[![Kx](https://github.com/ikx7a/ShikimoriixBot/blob/main/Assets/Shikimori.png)](https://github.com/ikx7a/ShikimoriixBot)
 
 </div>
 
@@ -128,7 +124,9 @@ There is a captcha check to prevent the entry of VoIP users who automatically sp
 
 <summary><b> Example Video </summary>
 
-[<img src="" width="" height="auto">](https://github.com/ikx7a/ShikimoriixBot)
+<div align="center">
+
+[<img src="https://github.com/ikx7a/ShikimoriixBot/blob/main/Assets/Shikimori.gif" width="200" height="auto">](https://github.com/ikx7a/ShikimoriixBot)
 
 
 
