@@ -42,17 +42,93 @@ There is a captcha check to prevent the entry of VoIP users who automatically sp
 **Start protecting your group now!**
 > Getting started protecting and managing your group better with Shikimori Bot is very simple: [click here](https://t.me/ShikimoriixBot?startgroup=start) to **add the bot** to the group, then set it as **administrator** and send the command **/settings** to manage the bot at 360° in all its functions and automations.
 
+**Shikimori Commands**
 
+<details> 
+<summary><b> Basic commands </summary>
 
+- 👮🏻 Available to Admins&Moderators
+- 🕵🏻 Available to Admins </b>
 
+- 👮🏻 `/reload` updates the Admins list and their privileges
+- 🕵🏻 `/settings` lets you manage all the Bot settings in a group
+- 👮🏻 `/ban` lets you ban a user from the group without giving him the possibility to join again using the link of the group
+- 👮🏻 `/mute` puts a user in *read-only* mode. He can read but he can't send any messages
+- 👮🏻 `/kick` bans a user from the group, giving him the possibility to join again with the link of the group
+- 👮🏻 `/unban` lets you remove a user from group's blacklist, giving them the possibility to join again with the link of the group
+- 👮🏻 `/info` gives information about a user
+- 👮🏻 `/infopvt` is the same of `/info`, but sends infos in private chat
+- ◽️ `/staff` gives the complete List of group Staff
 
+</details>
+<details> 
+<summary><b> Advanced Commands </summary>
 
+- 🕵🏻 Available to Admins
+- 👮🏻 Available to Admins&Moderators
+- 🛃 Available to Admins&Cleaners </b>
 
+**WARN MANAGEMENT**
+- 👮🏻  `/warn` adds a warn to the user
+- 👮🏻  `/unwarn` removes a warn to the user
+- 👮🏻  `/warns` lets you see and manage user warns
+- 🕵🏻  `/delwarn` deletes the message and add a warn to the user
 
+- 🛃 `/del` deletes the selected message
+- 🛃 `/logdel` deletes the selected message and sends it to the Log Channel
 
+- ◽️ `/me` sends in private chat a message with his own infos, group infos, warns received, rules of the group, banned words list...
 
+- 🕵🏻 /send permits to send a post using [HTML]() in the group, through the Bot
+  > ➡️ *Example*: /send Hello World!
 
+- 👮🏻  `/intervention` lets you request the intervention of a member of Official Bot Support, who will join the group as soon as possible
 
+</details>
+<details> 
+<summary><b> Expert commands </summary>
+
+- 👥 Available to all users
+- 👮🏻 Available to Admins&Moderators
+- 🕵🏻 Available to Admins </b>
+
+- 👥 `/geturl`, by replying to a message (via reply) and writing this command, you receive the link that refers directly to that message.
+
+- 🕵🏻 `/inactives` [days] sends in private chat the list of users who have not sent a message in the last [days], with the possibility of punish them.
+
+**Pinned Messages**
+- 🕵🏻 `/pin` [message] sends the message through the Bot and pins it.
+- 🕵🏻 `/pin` pins the message in reply.
+- 🕵🏻 `/editpin` [message] edits the current pinned message (if sent from the Bot).
+- 🕵🏻 `/delpin` removes the pinned message.
+- 🕵🏻 `/repin` removes and pins again the current pinned message, with notification!
+- 👥 `/pinned` refers to the current pinned message.
+
+- 🕵🏻 `/list` sends in private chat the list of users of the group with the number of messages sent by them
+- 🕵🏻 `/list` roles sends in private chat the list of all the special roles assigned to users
+- 🕵🏻 `/graphic` sends a graph showing the trend of the group members.
+- 🕵🏻 `/trend` sends the group's growth statistics.
+
+</details>
+<details> 
+<summary><b> Shikimori Configuration Tutorial </summary>
+
+- The first thing to do is to add **Shikimori to your group!**
+- Now for let me work correctly, you need to make me Admin of your Group!
+
+**To do that, follow this easy steps:**
+-▫️ Go to your group
+-▫️ Press the Group's name
+-▫️ Press Modify
+-▫️ Press on Administrator
+-▫️ Press Add Administrator
+-▫️ Press the Magnifying Glass
+-▫️ Search @ShikimoriixBot
+-▫️ Confirm
+
+<summary><b> Example Video </summary>
+
+[<img src="" width="" height="auto">](https://github.com/ikx7a/ShikimoriixBot)
 
 
 
