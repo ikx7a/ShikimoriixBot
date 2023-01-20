@@ -4,7 +4,7 @@
 
 [![Kx](https://github.com/ikx7a/ShikimoriixBot/blob/main/Assets/Shikimori.png)](https://github.com/ikx7a/ShikimoriixBot)
 
-<a href="https://telegram.me/ShikimoriixBot?startgroup=start"><b> `Add Group Help to the group` </b></a>
+<a href="https://telegram.me/ShikimoriixBot?startgroup=start"><b> `Add Group Help to the group`  </b></a>
 
 </div>
 
@@ -150,3 +150,11 @@ There is a captcha check to prevent the entry of VoIP users who automatically sp
 - 🕵🏻 `/trend` sends the group's growth statistics.
 
 </details>
+<div align="center">
+    ─「 <b>Support & Updates</b> 」─
+
+![Support Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/Support.png)
+
+[![Telegram](https://img.shields.io/badge/Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.dog/MaximXChannels)
+
+</div>
